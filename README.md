@@ -540,39 +540,10 @@ Report → Classify → Assign → Investigate → Track → Resolve → Report
 
 This project is developed for educational and academic purposes.
 
-👨‍💻 Author
+👨‍💻 Author:Abhishek Anand
 
 Security Incident Ticketing System
 
 Developed as a cybersecurity capstone project.
 
 
-## अब README save करो
-
-फिर browser में project को check करने की जरूरत नहीं है—`README.md` सिर्फ documentation है।
-
-### Step 16 के बाद Project Status
-
-अब हमारा project लगभग इस stage पर है:
-
-```text
-                    SECURITY INCIDENT
-                         TICKETING
-                            │
-       ┌────────────────────┼────────────────────┐
-       │                    │                    │
- Authentication          Admin               Analyst
-       │                    │                    │
-       │              ┌─────┼─────┐             │
-       │              │     │     │             │
-       │            Users Incidents Reports    Assigned
-       │                    │     │              │
-       │                    │     └── CSV       │
-       │                    │                   │
-       │              ┌─────┴─────┐             │
-       │              │           │             │
-       │           Assign       Status          │
-       │              │           │             │
-       └──────────────┴───────────┴─────────────┘
-                            │
-                       Audit Trail
