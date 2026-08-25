@@ -543,33 +543,5 @@ This project is developed for educational and academic purposes.
 👨‍💻 Author: ABHISHEK ANAND
 
 Security Incident Ticketing System
-
 Developed as a cybersecurity capstone project.
-
-
-# 🛡 Security Incident Ticketing System
-
-A web-based Security Incident Ticketing System developed using PHP, MySQL, HTML, CSS and JavaScript.
-
-The system helps security teams to report, classify, assign, investigate, track and resolve security incidents through a centralized ticketing platform.
-
----
-
-## 📌 Project Overview
-
-Security incidents such as unauthorized access, suspicious login attempts, malware detection, phishing, data leakage and other security events need to be properly recorded and tracked.
-
-This project provides a centralized platform where:
-
-- Administrators can manage users and incidents.
-- Security analysts can investigate assigned incidents.
-- Incidents can be classified according to category and severity.
-- Incidents can be assigned to security analysts.
-- Incident status can be updated throughout the investigation.
-- Complete activity history can be maintained.
-- Reports can be generated using multiple filters.
-- Incident reports can be exported as CSV.
-
----
-
 
