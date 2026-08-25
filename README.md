@@ -86,7 +86,7 @@ Analysts cannot access administrator-only functions.
 
 ---
 
-# 🎫 Incident Management
+🎫 Incident Management
 
 Each incident receives a unique ticket number.
 
