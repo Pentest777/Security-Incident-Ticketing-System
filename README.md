@@ -216,7 +216,7 @@ New Value
 Comment
 Timestamp
 
-📁 Project Structure
+#📁 Project Structure
 
 security-incident-ticketing/
 │
