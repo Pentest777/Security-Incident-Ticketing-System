@@ -141,7 +141,7 @@ Resolved
   ↓
 Closed
 
-👥 User Roles
+##  👥 User Roles
 
 The system currently supports:
 | Role    | Access                   |
